@@ -10,12 +10,7 @@ namespace PooVuleing.Tests
 {
     [TestClass()]
     public class CalculadoraTests
-    {
-        [TestMethod()]
-        public void CloneTest()
-        {
-            Assert.Fail();
-        }
+    { 
 
         [TestMethod()]
         public void DivisionTest()
